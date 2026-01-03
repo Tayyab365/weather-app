@@ -13,8 +13,8 @@ https://tayyab-weather-app.vercel.app/
 
 ## 📸 Screenshots
 
-(./screenshots/home.png)
-(./screenshots/current-weather.png)
+[!Home](./screenshots/home.png)
+[!Current-Weather](./screenshots/current-weather.png)
 
 ## ✨ Features
 
